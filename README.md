@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @bunnywar
+- 👋 Hi, I’m Bushra
 - 👀 I’m interested in medical technology and cybersecurity
 - 🌱 I’m currently learning to code and build projects on github
-- 💞️ I’m looking to collaborate on beginner level projects which focus on cybersecurity
+- 💞️ I’m looking to collaborate on beginner level projects
 - 📫 You can reach me by email
 
 <!---
